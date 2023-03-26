@@ -1,0 +1,5 @@
+Nama : Sepatu
+Merk : Adidas
+Warna : Putih
+Kategori : Sepatu
+Harga : Rp. 2.000.000
